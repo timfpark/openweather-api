@@ -1,2 +1,4 @@
+.env.test
+.env
 /target
 /Cargo.lock
